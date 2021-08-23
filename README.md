@@ -1,13 +1,11 @@
 ### `FRONTEND`
-#### Technologies
+#### Stack
   - NextJS
   - Typescript
   - Redux
   - TailwindCSS
 
 ### `BACKEND`
-#### Technologies
-  - Graphql
-
-### `To do`
-#### Add tailwindcss
+#### Stack
+  - Typescript
+  - Apollo (Graphql)
